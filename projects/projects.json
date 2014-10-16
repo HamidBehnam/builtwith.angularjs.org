@@ -1,4 +1,4 @@
-{
+﻿{
   "featured": "YouTube on PS3",
   "projects": [
   {
@@ -3579,6 +3579,26 @@
         "Toy",
         "No jQuery",
         "Bootstrap"
+      ]
+    },
+    {
+      "name": "The Whole Bank",
+      "thumb": "thewholebank/thumb.png",
+      "desc": "The Whole Bank is a web application which is implemented to show how to use the modern web technologies to deal with data in client side.",
+      "url": "http://hamidbehnam.github.io/the-whole-bank/",
+      "src": "https://github.com/HamidBehnam/the-whole-bank",
+      "submitter": "HamidBehnam",
+      "submissionDate": "2014-10-16",
+      "tags": [
+        "AngularJS",
+        "jQuery",
+        "Bootstrap",
+        "AJAX",
+        "HTML5",
+        "JSON",
+        "CSS3",
+        "JavaScript",
+        "Demo"
       ]
     }
 
